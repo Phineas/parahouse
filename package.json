@@ -1,0 +1,22 @@
+{
+  "name": "parahouse",
+  "version": "0.0.1",
+  "description": "Home Control (Philips Hue, Kasa, Alexa, Nest, etc) - soon to be for ParaHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phineas/parahouse.git"
+  },
+  "author": "phineas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phineas/parahouse/issues"
+  },
+  "homepage": "https://github.com/Phineas/parahouse#readme",
+  "dependencies": {
+    "node-hue-api": "^2.4.1"
+  }
+}
